@@ -4,7 +4,7 @@ from sklearn.impute import SimpleImputer
 
 
 try:
-    df = pd.read_csv('C:/Users/Mudd/Desktop/Python Data Structures/Python Libraries/Python Libraries/WHO-COVID-19-global-data.csv')
+    df = pd.read_csv('WHO-COVID-19-global-data.csv')
 except FileNotFoundError:
     print("The specified file was not found.")
     exit()
