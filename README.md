@@ -31,8 +31,9 @@ To run these scripts, ensure you have Python installed along with the following 
 2. Pandas
 3. Matplotlib
 4. scikit-learn (for SimpleImputer in Matplotlib_covid19.py)
+
 You can install these libraries using pip with the following command:
-  ==> pip install numpy pandas matplotlib scikit-learn
+==> pip install numpy pandas matplotlib scikit-learn
 
 Usage:
 Each script demonstrates specific functionalities related to its respective library. You can run them individually to see the output and understand how to utilize these libraries for data manipulation, visualization, and analysis.
